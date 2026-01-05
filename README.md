@@ -18,10 +18,11 @@ Based on the model comparison (Accuracy / F1 / Kappa / Classification Error), **
 > Note: Exact values may vary depending on dataset version, random seed, and tuning.
 
 ## Project Structure
+.
 ├─ src/
-│ └─ Hotel Booking Status Prediction.R
+│ └─ Assignment1_Group10.R
 ├─ slides/
-│ └─ Hotel Booking Status Prediction.pptx
+│ └─ Template.pptx
 ├─ data/
 │ └─ Hotel Reservations.csv (not included in this repo)
 ├─ .gitignore
