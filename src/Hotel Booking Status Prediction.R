@@ -26,7 +26,7 @@ library(ipred)
 
 # 1. Dataset Overview
 # Loading dataset (change the file name if needed)
-reservations <- read.csv("~/Desktop/Study stuffs/Sem 6/Special Topics/Assignment 1/Assignment1_Group10/Hotel Reservations.csv")
+reservations <- read.csv("data/Hotel Reservations.csv")
 head(reservations)
 sum(is.na(reservations))
 str(reservations)
