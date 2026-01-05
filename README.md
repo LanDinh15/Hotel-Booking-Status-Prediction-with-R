@@ -30,7 +30,7 @@ Based on the model comparison (Accuracy / F1 / Kappa / Classification Error), **
 ## Dataset
 This project uses the **Hotel Reservations Classification Dataset** from Kaggle.
 Source (Kaggle):
-- https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset :contentReference[oaicite:1]{index=1}
+- https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
 In this repository, the dataset CSV is included at:
 - `data/Hotel Reservations.csv`
 
@@ -56,3 +56,6 @@ install.packages(c(
   "magrittr","randomForest","mclust","Metrics","glmnet","ipred",
   "kernlab","vcd","car"
 ))
+
+## License
+This project is licensed under the MIT License.
