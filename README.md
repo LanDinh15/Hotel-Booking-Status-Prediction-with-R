@@ -20,9 +20,11 @@ Based on the model comparison (Accuracy / F1 / Kappa / Classification Error), **
 ## Project Structure
 ```bash
 ├── src/
-| └─ Hotel Booking Status Prediction.R          
-├── README.md               
-├── Report.pdf               
-└── GDP_Happiness_Analysis_2006-2022.twbx    
+│ └─ Hotel Booking Status Prediction.R          
+├── slides/
+│ └─ Hotel Booking Status Prediction.pptx               
+├── data /
+│ └─ Hotel Reservations.csv                
+└── README.md  
 ```
 
