@@ -27,11 +27,18 @@ Based on the model comparison (Accuracy / F1 / Kappa / Classification Error), **
 │ └─ Hotel Reservations.csv                
 └── README.md  
 ```
+## Dataset
+This project uses the **Hotel Reservations Classification Dataset** from Kaggle.
+Source (Kaggle):
+- https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset :contentReference[oaicite:1]{index=1}
+In this repository, the dataset CSV is included at:
+- `data/Hotel Reservations.csv`
+
 ## How to Run
 1. Open RStudio
 2. Set working directory to the repo root (where README.md is)
 3. Install required packages (first time only)
-4. Run the script: `src/Assignment1_Group10.R`
+4. Run the script: `src/Hotel Booking Status Prediction.R`
 
 ### Required Packages
 This script uses (not exhaustive):
