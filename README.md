@@ -58,5 +58,8 @@ install.packages(c(
 ))
 ```
 
+## Slides
+Presentation template is included in slides/Hotel Booking Status Prediction.pptx.
+
 ## License
 This project is licensed under the MIT License.
