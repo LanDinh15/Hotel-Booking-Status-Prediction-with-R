@@ -18,13 +18,11 @@ Based on the model comparison (Accuracy / F1 / Kappa / Classification Error), **
 > Note: Exact values may vary depending on dataset version, random seed, and tuning.
 
 ## Project Structure
-.
-├─ src/
-│ └─ Assignment1_Group10.R
-├─ slides/
-│ └─ Template.pptx
-├─ data/
-│ └─ Hotel Reservations.csv (not included in this repo)
-├─ .gitignore
-└─ README.md
+```bash
+├── src/
+| └─ Hotel Booking Status Prediction.R          
+├── README.md               
+├── Report.pdf               
+└── GDP_Happiness_Analysis_2006-2022.twbx    
+```
 
