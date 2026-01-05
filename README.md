@@ -27,4 +27,25 @@ Based on the model comparison (Accuracy / F1 / Kappa / Classification Error), **
 │ └─ Hotel Reservations.csv                
 └── README.md  
 ```
+## How to Run
+1. Open RStudio
+2. Set working directory to the repo root (where README.md is)
+3. Install required packages (first time only)
+4. Run the script: `src/Assignment1_Group10.R`
 
+### Required Packages
+This script uses (not exhaustive):
+- caret, rpart, rpart.plot
+- e1071, class, pROC
+- caTools, dplyr, ggplot2, tidyverse, corrgram
+- ROSE, xgboost, randomForest
+- Metrics, glmnet, ipred, kernlab, vcd, car
+
+Install them if needed:
+```r
+install.packages(c(
+  "caret","rpart","rpart.plot","e1071","class","pROC","caTools",
+  "dplyr","ggplot2","tidyverse","corrgram","ROSE","xgboost",
+  "magrittr","randomForest","mclust","Metrics","glmnet","ipred",
+  "kernlab","vcd","car"
+))
